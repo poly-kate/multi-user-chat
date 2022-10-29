@@ -5,7 +5,7 @@ import java.time.LocalDateTime;
 
 
 public class Message implements Serializable {
-    private String sender; //отправитель
+    private String sender; 
     private String text;
     private LocalDateTime dateTime;
 
