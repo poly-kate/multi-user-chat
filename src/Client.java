@@ -6,7 +6,6 @@ import java.util.Scanner;
 import java.net.Socket;
 
 /*
-* Выполнено на основе клиент-сервера из lesson20
 * Запускается сначала сервер, потом клиенты
 * */
 
